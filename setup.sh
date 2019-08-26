@@ -52,7 +52,7 @@ sudo apt-get remove ubuntu-web-launchers thunderbird rhythmbox -y
 sudo apt-get install -y gimp scribus
 
 ## Games
-sudo apt-get install -y steam
+sudo apt-get install -y steam-installer
 
 ## Disable Apport
 sudo sed -i 's/enabled=1/enabled=0/g' /etc/default/apport
