@@ -20,7 +20,7 @@ sudo adduser $USER vboxusers
 
 # Remove undesirable packages:
 
-sudo apt purge gstreamer1.0-fluendo-mp3 deja-dup shotwell -yy
+sudo apt purge gstreamer1.0-fluendo-mp3 deja-dup shotwell whoopsie whoopsie-preferences -yy
 
 # Remove snaps and get packages from apt:
 
