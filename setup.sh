@@ -50,7 +50,7 @@ sudo apt-get remove ubuntu-web-launchers thunderbird rhythmbox -y
 
 ## Multimedia
 sudo apt-get install -y gimp scribus
-
+sudo apt-get install -y kdeconnect
 ## Games
 sudo apt-get install -y steam-installer
 
